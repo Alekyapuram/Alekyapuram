@@ -13,6 +13,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python,linux,git,js,express,react,bitbucket,visualstudio&perline=7)](https://skillicons.dev)
 
-i<h1 align="center"> <img src="https://giphy.com/gifs/MicrosoftCloud-msbuild-microsoft-build-L7AIyTuXaszW3shL0F"/> </h1>
+<h1 align="center"> <img src="https://giphy.com/gifs/MicrosoftCloud-msbuild-microsoft-build-L7AIyTuXaszW3shL0F"/> </h1>
 
 <h1 align="center"> Thanks for visiting my profile. 🌟</h1>

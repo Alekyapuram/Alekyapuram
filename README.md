@@ -13,10 +13,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python,linux,git,js,express,react,bitbucket,visualstudio&perline=7)](https://skillicons.dev)
 
-</p>
 
 <h1 align="center"> 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/L7AIyTuXaszW3shL0F" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/MicrosoftCloud-msbuild-microsoft-build-L7AIyTuXaszW3shL0F">via GIPHY</a></p>
+<img src = "https://giphy.com/gifs/MicrosoftCloud-msbuild-microsoft-build-L7AIyTuXaszW3shL0F">via GIPHY</a></p>
  </h1>
 
-<h1 align="center"> Thanks for visiting my profile. 🌟</h1>
+<h2 align="center"> Thanks for visiting my profile. 🌟</h2>
